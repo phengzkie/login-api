@@ -5,6 +5,7 @@ A simple project task that creates an API for Sign up and User login using NodeJ
 ## Installation
 
 Create a .env file and make an enviroment variables for MONGO_ATLAS_PW and SESSION SECRET.
+Try the free [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 
 Install the package dependencies
 ```bash
